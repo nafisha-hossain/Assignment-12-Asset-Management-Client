@@ -2,9 +2,9 @@
 
 A modern web application designed to simplify the process of managing and tracking assets. Users can list available assets, explore existing records, and update or manage asset statuses. Includes secure login and intuitive search by asset titles.
 
-🔗 *Live Site:* [Asset Management System](https://assignment12-665fe.web.app)
+🔗 *Live Site:* [Asset Management System](https://asset-management-client-sigma.vercel.app)
 
----
+
 
 ## 🔧 Core Features
 
